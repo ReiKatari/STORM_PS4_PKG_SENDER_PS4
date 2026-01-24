@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7718fe8d-e9d0-4874-a93f-f724534fe80e" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7718fe8d-e9d0-4874-a93f-f724534fe80e" />
 
 # STORM PS4 PKG SENDER
 </div>
