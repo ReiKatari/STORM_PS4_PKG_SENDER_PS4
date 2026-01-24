@@ -1,6 +1,9 @@
-<img width="124" height="123" alt="image" src="https://github.com/user-attachments/assets/2ad5d2af-c50c-44de-86b9-6e49a220571e" />
+<div align="center">
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7718fe8d-e9d0-4874-a93f-f724534fe80e" />
 
 # STORM PS4 PKG SENDER
+</div>
 
 ### 🇷🇺 Особенности программы (Russian)
 
